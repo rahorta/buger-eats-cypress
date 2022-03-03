@@ -1,7 +1,7 @@
-import signup from '../pages/SignupPage'
 
 describe('home page', ()=>{
     it('app deve estar online', ()=>{
-        signup.go()
+        cy.visit('/')
+        cy.get('h1').should('have.text', 'Seja um parceiro entregador pela Buger Eats')
     })
 })
