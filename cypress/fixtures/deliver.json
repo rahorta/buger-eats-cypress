@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Rodolfo Horta",
+        "cpf": "12345678901",
+        "email": "ragh@gmail.com",
+        "whatsapp": "32999991111",
+        "address": {
+            "postalcode": "36010080",
+            "street": "Rua Barão de São João Nepomuceno",
+            "number": "132",
+            "details": "Apto 102",
+            "district": "Centro",
+            "city_state": "Juiz de Fora/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João CPF Invalido",
+        "cpf": "A23456789AA",
+        "email": "cpf@gmail.com",
+        "whatsapp": "32999991111",
+        "address": {
+            "postalcode": "36010080",
+            "street": "Rua Barão de São João Nepomuceno",
+            "number": "132",
+            "details": "Apto 102",
+            "district": "Centro",
+            "city_state": "Juiz de Fora/MG"
+        },
+        "delivery_method": "Bicicleta",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Rodolfo Horta",
+        "cpf": "12345678901",
+        "email": "email.invalido.com",
+        "whatsapp": "32999991111",
+        "address": {
+            "postalcode": "36010080",
+            "street": "Rua Barão de São João Nepomuceno",
+            "number": "132",
+            "details": "Apto 102",
+            "district": "Centro",
+            "city_state": "Juiz de Fora/MG"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
